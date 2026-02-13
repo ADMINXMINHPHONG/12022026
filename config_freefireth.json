@@ -28,6 +28,16 @@
             "img2": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
             "name": "MP40 UCHIHA (OLD)",
             "note": ""
+          },
+          {
+            "downloadUrl": "11",
+            "group": "1",
+            "id": "1",
+            "img": "",
+            "img1": "https://linhkien283.com/wp-content/uploads/2025/10/anh-ff-13.jpg",
+            "img2": "https://linhkien283.com/wp-content/uploads/2025/10/anh-ff-13.jpg",
+            "name": "1",
+            "note": ""
           }
         ],
         "ar": [
@@ -546,12 +556,12 @@
   },
   "homeMenu": [
     {
-      "banner": "",
+      "banner": "https://i.pinimg.com/736x/5c/72/4d/5c724d8b8f21394f1c0096b0c8bf35a4.jpg",
       "icon": "🔫",
       "id": "skin_gun",
       "isVip": false,
       "subtitle": "Các skin súng cực đẹp",
-      "title": "SKIN SÚNG hh"
+      "title": "SKIN SÚNG"
     },
     {
       "banner": "https://i.pinimg.com/736x/f3/a4/9c/f3a49c89c7e8b3e4b5e5e8a9c7d6f5e4.jpg",
@@ -562,8 +572,8 @@
       "title": "SKIN NHÂN VẬT"
     },
     {
-      "banner": "",
-      "icon": "📦",
+      "banner": "https://i.pinimg.com/736x/a1/b2/c3/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.jpg",
+      "icon": "🎒",
       "id": "pack_mod",
       "isVip": true,
       "subtitle": "Combo nhiều mod trong 1 pack",
