@@ -28,16 +28,6 @@
             "img2": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
             "name": "MP40 UCHIHA \u003d",
             "note": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1xJUstL4cJjTtJla-m6cujFMR5TJhoCXF",
-            "group": "ALOK",
-            "id": "ffmax_alok_v012",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260213a1dec4ee3f7879d3bc9c0c599f366b55.jpg",
-            "img1": "",
-            "img2": "",
-            "name": "ALOK-012",
-            "note": ""
           }
         ],
         "ar": [
@@ -373,6 +363,16 @@
             "img1": "",
             "img2": "",
             "name": "IGNIS-012",
+            "note": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1xJUstL4cJjTtJla-m6cujFMR5TJhoCXF",
+            "group": "ALOK",
+            "id": "itemalok00111",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260213a1dec4ee3f7879d3bc9c0c599f366b55.jpg",
+            "img1": "",
+            "img2": "",
+            "name": "Alok1111",
             "note": ""
           }
         ],
