@@ -263,11 +263,14 @@
             "name": "IGNIS - V009"
           },
           {
-            "downloadUrl": "https://drive.google.com/file/d/1EsuYVkohHJ7ZKuDhbjzRlWnGNzLGv3AV/view?usp\u003ddrivesdk",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1EsuYVkohHJ7ZKuDhbjzRlWnGNzLGv3AV",
             "group": "IGNIS",
             "id": "ff_ignis_010",
             "img": "https://sf-static.upanhlaylink.com/img/image_202601217975b917059a5c78df659766e8b71d46.jpg",
-            "name": "IGNIS - V010"
+            "img1": "",
+            "img2": "",
+            "name": "IGNIS - V010",
+            "note": ""
           },
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1sHG7rz01O08eb_1T08b941hCzLDcMVEu",
