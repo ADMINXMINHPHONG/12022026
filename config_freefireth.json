@@ -188,7 +188,10 @@
             "group": "MARO",
             "id": "ff_maro_002",
             "img": "https://sf-static.upanhlaylink.com/img/image_20251227b7fef211e4e7a17e0c6020bdccb99913.jpg",
-            "name": "MARO - V002"
+            "img1": "",
+            "img2": "",
+            "name": "MARO - V001",
+            "note": ""
           },
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1ycTFQ8P7MQdmJGriw6dK0XblbArs83gc",
