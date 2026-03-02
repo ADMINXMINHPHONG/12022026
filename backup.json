@@ -1,6 +1,15 @@
 {
     "backups": [
         {
+            "name": "2026-03-02_21-04",
+            "comment": "2\/3\/2026",
+            "timestamp": "2026-03-02T21:04:14",
+            "files": [
+                "backup\/2026-03-02_21-04\/config_freefireth.json",
+                "backup\/2026-03-02_21-04\/config_freefiremax.json"
+            ]
+        },
+        {
             "name": "2026-02-17_12-10",
             "comment": "backup 17 2 2026",
             "timestamp": "2026-02-17T12:11:00",
