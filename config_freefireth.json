@@ -93,24 +93,6 @@
             "mapping_key": "_010",
             "name": "014 AK47 Skin",
             "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "SCAR",
-            "id": "ff_gun_015",
-            "img1": "",
-            "img2": "",
-            "name": "015 SCAR Skin",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "AN94",
-            "id": "ff_gun_016",
-            "img1": "",
-            "img2": "",
-            "name": "016 AN94 Skin",
-            "videoEnabled": false
           }
         ],
         "sr": [
