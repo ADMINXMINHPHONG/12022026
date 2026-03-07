@@ -120,24 +120,6 @@
             "img2": "",
             "name": "017 FAMAS Skin",
             "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "Groza",
-            "id": "ff_gun_018",
-            "img1": "",
-            "img2": "",
-            "name": "018 Groza Skin",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "AUG",
-            "id": "ff_gun_019",
-            "img1": "",
-            "img2": "",
-            "name": "019 AUG Skin",
-            "videoEnabled": false
           }
         ],
         "sr": [
