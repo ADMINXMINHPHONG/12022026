@@ -73,26 +73,6 @@
             "mapping_key": "_017",
             "name": "012 M4A1 KIM SƯ ĐIỂU",
             "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "M4A1",
-            "id": "ff_gun_013",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "_011",
-            "name": "013 M4A1 Skin",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "",
-            "group": "AK47",
-            "id": "ff_gun_014",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "_010",
-            "name": "014 AK47 Skin",
-            "videoEnabled": false
           }
         ],
         "sr": [
