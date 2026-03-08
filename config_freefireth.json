@@ -761,6 +761,22 @@
             "img": "https://sf-static.upanhlaylink.com/img/image_202603085e4dbd45e3907970e8abeaa080766d65.jpg",
             "name": "001 KEO V1",
             "note": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1UeuowbM0w0VvBOsBDURgUbUbJz054-9X",
+            "group": "BOM_KEO",
+            "id": "ff_keo_002",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260308d04e2705ac78e4af3d5b4502f9ac0e20.jpg",
+            "name": "002 KEO V2",
+            "note": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1Zr2u2-rwbkpNuLNRVYOb0nm4QUtgW_lW",
+            "group": "BOM_KEO",
+            "id": "ff_keo_003",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026030866828be3273350c47c5e7aa00188e857.jpg",
+            "name": "003 KEO V3",
+            "note": ""
           }
         ]
       },
@@ -813,5 +829,38 @@
       "useFilter": true
     }
   },
-  "homeMenu": []
+  "homeMenu": [
+    {
+      "banner": "https://i.pinimg.com/736x/5c/72/4d/5c724d8b8f21394f1c0096b0c8bf35a4.jpg",
+      "icon": "🔫",
+      "id": "skin_gun",
+      "isVip": false,
+      "subtitle": "Các skin súng cực đẹp",
+      "title": "SKIN SÚNG"
+    },
+    {
+      "banner": "https://i.pinimg.com/736x/f3/a4/9c/f3a49c89c7e8b3e4b5e5e8a9c7d6f5e4.jpg",
+      "icon": "👨",
+      "id": "skin_char",
+      "isVip": false,
+      "subtitle": "Trang phục nhân vật thời thượng",
+      "title": "SKIN NHÂN VẬT"
+    },
+    {
+      "banner": "https://sf-static.upanhlaylink.com/img/image_202603085e4dbd45e3907970e8abeaa080766d65.jpg",
+      "icon": "❄️",
+      "id": "mod_bom_keo",
+      "isVip": true,
+      "subtitle": "Mod Bom Keo mới nhất",
+      "title": "MOD BOM KEO"
+    },
+    {
+      "banner": "https://i.pinimg.com/736x/a1/b2/c3/a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6.jpg",
+      "icon": "🎒",
+      "id": "pack_mod",
+      "isVip": true,
+      "subtitle": "Combo nhiều mod trong 1 pack",
+      "title": "PACK MOD"
+    }
+  ]
 }
