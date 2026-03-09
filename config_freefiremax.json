@@ -820,13 +820,17 @@
       "items": {
         "mod_bom_keo": [
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1BaTzWCU6mXTyMxbKFRzsA0sUSMhT6Gp0",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17IfEJiGxmynK1GCFt4qS7iDEcucxouST",
             "group": "BOM_KEO",
             "id": "ff_keo_001",
             "img": "https://sf-static.upanhlaylink.com/img/image_202603085e4dbd45e3907970e8abeaa080766d65.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
             "name": "001 KEO V1",
             "note": "",
-            "videoEnabled": false
+            "videoEnabled": false,
+            "videoUrl": ""
           },
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17IfEJiGxmynK1GCFt4qS7iDEcucxouST",
