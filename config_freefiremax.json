@@ -842,13 +842,17 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d181H4w1mScW14jgrglQ0HtxrI8SHR33Uf",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1mdzLtOj5KoO5s7_ZernRy1gqCjzhKuHG",
             "group": "BOM_KEO",
             "id": "ff_keo_003",
             "img": "https://sf-static.upanhlaylink.com/img/image_2026030866828be3273350c47c5e7aa00188e857.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
             "name": "003 KEO V3",
             "note": "",
-            "videoEnabled": false
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
