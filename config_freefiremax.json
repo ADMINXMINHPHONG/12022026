@@ -24,16 +24,17 @@
             "videoEnabled": false
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1QzDM8HifYAgbFMRg06h-N5jN9OCDbsuF",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1mLrIp1hSV-ZtOudspIuI84wko1K14jG-",
             "group": "SMG",
             "id": "ff_mp40_bunny_old1",
             "img": "",
             "img1": "https://cdn.jsdelivr.net/gh/ShahGCreator/icon@main/PNG/907136043.png",
             "img2": "https://sf-static.upanhlaylink.com/img/image_20251229ab3a85953d8227e4c6daed64ccee2440.jpg",
-            "mapping_key": "_020",
+            "mapping_key": "",
             "name": "MP40 UCHIHA (OLD) (2.9MB)",
             "note": "",
-            "videoEnabled": false
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "ar": [
