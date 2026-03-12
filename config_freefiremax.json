@@ -996,15 +996,16 @@
           },
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d14ORE3A6ySS2dYiDSLisLNUGV6I-kEpLY",
-            "group": "kapella",
+            "group": "KAPELLA",
             "id": "ff_kapella_003",
             "img": "https://sf-static.upanhlaylink.com/img/image_20260214253a7ba2beb4e550ec2adb1758126168.jpg",
             "img1": "",
             "img2": "",
-            "mapping_key": "_019",
+            "mapping_key": "",
             "name": "kapella-003 (1.6MB)",
             "note": "",
-            "videoEnabled": false
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
