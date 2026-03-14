@@ -1087,50 +1087,14 @@
             "videoEnabled": false
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1yzp0x6hBu2acE-8eZNIBYbYU8IUmdSur",
-            "group": "KAPELLA",
-            "id": "char_batch_1773480034_10",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260314061788186d68921e83dbd85a4f485a38.jpg",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "_019",
-            "name": "Kapella V10",
-            "note": "",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1T1jmgcIw7A6J_oIdc6ZMUgyvJOBBBIWU",
-            "group": "KAPELLA",
-            "id": "char_batch_1773480034_11",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260314bd7c41c6250a0be941c88ef2bca616f2.jpg",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "_019",
-            "name": "Kapella V11",
-            "note": "",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1mHob6ZfXvjt6rKcvSSKTPuyLrCcfKaK8",
-            "group": "WOLFRAHH",
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1c4vStYUNLqX_BQclNYDOsB_Q3yWSwl0M",
+            "group": "KAIROS",
             "id": "char_batch_1773480034_12",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260314bd7c41c6250a0be941c88ef2bca616f2.jpg",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202603145d7e65061f8b0d041b27654e2a63f6bb.jpg",
             "img1": "",
             "img2": "",
             "mapping_key": "_022",
             "name": "Wolfrahh V12",
-            "note": "",
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1c4vStYUNLqX_BQclNYDOsB_Q3yWSwl0M",
-            "group": "KAIROS",
-            "id": "char_batch_1773480034_13",
-            "img": "https://sf-static.upanhlaylink.com/img/image_2026031411e4b2f1589703c443fbcfd1cfefd806.jpg",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "_016",
-            "name": "Kairos V13",
             "note": "",
             "videoEnabled": false
           },
@@ -1175,6 +1139,30 @@
             "img2": "",
             "mapping_key": "_019",
             "name": "kapella-003 ",
+            "note": "",
+            "videoEnabled": false
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1yzp0x6hBu2acE-8eZNIBYbYU8IUmdSur",
+            "group": "KAPELLA",
+            "id": "char_batch_1773480034_10",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260314061788186d68921e83dbd85a4f485a38.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_019",
+            "name": "Kapella V10",
+            "note": "",
+            "videoEnabled": false
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1T1jmgcIw7A6J_oIdc6ZMUgyvJOBBBIWU",
+            "group": "KAPELLA",
+            "id": "char_batch_1773480034_11",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260314bd7c41c6250a0be941c88ef2bca616f2.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_019",
+            "name": "Kapella V11",
             "note": "",
             "videoEnabled": false
           }
