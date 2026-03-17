@@ -1415,6 +1415,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://github.com/ADMINXMINHPHONG/PixelHudMods_GLOBAL/raw/refs/heads/main/v2%20com.dts.freefireth.zip",
+            "group": "DOCLANGCHIEN",
+            "id": "ff_minecraft_002",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260317cdf232044266fabc01e4dcd216803e59.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "002_DOC_LANG_CHIEN_V2",
+            "name2": "",
+            "note": "hi",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
