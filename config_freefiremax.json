@@ -1298,13 +1298,13 @@
             "videoEnabled": false
           },
           {
-            "downloadUrl": "",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1dCb4DKkhRJDk9X9xllVjn7KoikMekjwb",
             "group": "PACK_MOD",
             "id": "ffmax_pack_002",
             "img": "https://raw.githubusercontent.com/modskinff/MOD-SKIN-C-T-M-/refs/heads/main/Add%20a%20subheading%20(2).png",
             "img1": "",
             "img2": "",
-            "mapping_key": "_001",
+            "mapping_key": "",
             "name": "PACK",
             "name2": "",
             "note": "",
