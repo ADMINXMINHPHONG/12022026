@@ -1283,6 +1283,21 @@
             "name": "001 PACK MOD HÀNH ĐỘNG , GÓI NÀY 50MB - ƯỚC TÍNH 1-5 PHÚT MỚI CÀI ĐẶT XONG",
             "variants": 0,
             "videoEnabled": false
+          },
+          {
+            "downloadUrl": "",
+            "group": "PACK_MOD",
+            "id": "ff_pack_002",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260321e91c044200234e034888bdc8172a625d.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_001",
+            "name": "002_PACK_MOD_HANH_ONG__TAI_HANH_ONG_TRUOC_ROI_CAI__VO_TRAN_MOI_CO_HIEU_UNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
