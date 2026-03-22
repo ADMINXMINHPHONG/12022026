@@ -45,6 +45,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "",
+            "group": "UMP",
+            "id": "ff_gun_033",
+            "img": "",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "UMP_NGHE_SI_TU_THAN",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "ar": [
