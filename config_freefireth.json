@@ -30,6 +30,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "",
+            "group": "UMP",
+            "id": "ff_gun_032",
+            "img": "",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2026032261a78b7b842b15d773af7e9c7e3d1b7a.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_202603226b08110d0b66067f0715138b090e1ca2.jpg",
+            "mapping_key": "",
+            "name": "UMP_NHONG_NHONG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "ar": [
