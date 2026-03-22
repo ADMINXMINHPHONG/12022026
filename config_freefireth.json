@@ -60,6 +60,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "",
+            "group": "UMP",
+            "id": "ff_gun_034",
+            "img": "",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2026032261a78b7b842b15d773af7e9c7e3d1b7a.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_20260322b36ac9bd17968b2cbd35fe378dad8d4b.jpg",
+            "mapping_key": "",
+            "name": "034_UMP_RUBY_",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "ar": [
