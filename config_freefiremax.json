@@ -1413,7 +1413,7 @@
           "name": "MOD ĐỒ LẺ"
         }
       ],
-      "template": "khung-ngang",
+      "template": "khung-nhanvat",
       "useFilter": true
     },
     "mod_map": {
