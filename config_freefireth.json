@@ -250,6 +250,21 @@
             "note": "",
             "variants": 0,
             "videoEnabled": false
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1y8j-oxfT07JeED6goK5KRJeoCZvcfIi5",
+            "group": "M1014",
+            "id": "ff_gun_035",
+            "img": "",
+            "img1": "https://sf-static.upanhlaylink.com/img/image_2026041079a11264c4e593c0d2520afcb4a1b0fc.jpg",
+            "img2": "https://sf-static.upanhlaylink.com/img/image_2026041079a11264c4e593c0d2520afcb4a1b0fc.jpg",
+            "mapping_key": "_001",
+            "name": "035_SKIN_LO_M1014",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": true,
+            "videoUrl": "https://youtu.be/mU7Kpzz_pSE?si\u003d1ss-hdGe48q9SEdY"
           }
         ]
       },
