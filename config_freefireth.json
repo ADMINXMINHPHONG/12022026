@@ -250,6 +250,21 @@
             "note": "",
             "variants": 0,
             "videoEnabled": false
+          },
+          {
+            "downloadUrl": "",
+            "group": "TROGUN",
+            "id": "ff_gun_035",
+            "img": "",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_001",
+            "name": "035_SHOT_GUN_TIM_1014_SUA_MAPPINGKEY",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
