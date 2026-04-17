@@ -1358,6 +1358,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/khiu0d.zip",
+            "group": "PACK_MOD",
+            "id": "ff_pack_003",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260417eda9e05cabce0fcc841b27316f9a70ad.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "PACK_99_HANH_ONG_MOI_OB53",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": true,
+            "videoUrl": "https://youtu.be/rHbhGb0ZguE?si\u003d8Puzq5_muOUyoXbg"
           }
         ]
       },
