@@ -1464,7 +1464,23 @@
     },
     "mod_map": {
       "items": {
-        "mod_map": []
+        "mod_map": [
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1vH2iTTnSYEsyBzU3_ODIus8PVNJ0ON91",
+            "group": "Santino",
+            "id": "COLLAB GARENA X XZZ",
+            "img": "https://sf-static.upanhlaylink.com/img/image_202604181f2df5d2f070826d88d78cb4d4308bb1.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "Dùng Nhân Vật Santino",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          }
+        ]
       },
       "tabs": [
         {
