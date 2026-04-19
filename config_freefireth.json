@@ -1350,14 +1350,19 @@
       "items": {
         "pack_mod": [
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1510jxmljSEg9bDSn5Eq79VG2GTKJO7LU",
+            "downloadUrl": "https://files.catbox.moe/4ozrxx.zip",
             "group": "PACK_MOD",
             "id": "ff_pack_001",
             "img": "https://raw.githubusercontent.com/doflamingohonghac-creator/hac/refs/heads/main/Gemini_Generated_Image_x9yke4x9yke4x9yk-small-small-small-small.png",
-            "mapping_key": "_001",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
             "name": "001 PACK MOD HÀNH ĐỘNG , GÓI NÀY 50MB - ƯỚC TÍNH 1-5 PHÚT MỚI CÀI ĐẶT XONG",
+            "name2": "",
+            "note": "",
             "variants": 0,
-            "videoEnabled": false
+            "videoEnabled": false,
+            "videoUrl": ""
           },
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1jKi_TqtAvmYat4VlJq9jZrUrfMIPwI4u",
