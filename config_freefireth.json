@@ -419,16 +419,6 @@
             "videoEnabled": false
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1mCoEeCsjeHfvEayDOmkzy8ifhsoINThI",
-            "group": "ALOK",
-            "id": "ff_alok_008",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260124b4b33a38a79d605dd5184e0c97054a58.jpg",
-            "mapping_key": "_014",
-            "name": "ALOK THỨC TỈNH - V008",
-            "variants": 0,
-            "videoEnabled": false
-          },
-          {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d10NGsKGXS7RIC2pcd7h5DzLGkeeyC8p8L",
             "group": "ALOK",
             "id": "ff_alok_003",
@@ -465,16 +455,6 @@
             "img": "https://sf-static.upanhlaylink.com/img/image_202601272d62d16368535c4e1385380c8e278954.jpg",
             "mapping_key": "_014",
             "name": "ALOK THỨC TỈNH - V006",
-            "variants": 0,
-            "videoEnabled": false
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1-eZOIvXvZOcUcDMsOr_zRcIrYLlphuf1",
-            "group": "ALOK",
-            "id": "ff_alok_008",
-            "img": "https://sf-static.upanhlaylink.com/img/image_20260127cbf4a1261b389412ca5eff522a45a72f.jpg",
-            "mapping_key": "_014",
-            "name": "ALOK THỨC TỈNH - V008",
             "variants": 0,
             "videoEnabled": false
           },
