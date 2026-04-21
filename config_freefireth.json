@@ -1599,6 +1599,19 @@
       ],
       "template": "khung-ngang",
       "useFilter": true
+    },
+    "item_out_game": {
+      "items": {
+        "item_out_game": []
+      },
+      "tabs": [
+        {
+          "id": "item_out_game",
+          "name": "ITEM OUT GAME"
+        }
+      ],
+      "template": "khung-ngang",
+      "useFilter": true
     }
   },
   "homeMenu": [
@@ -1657,6 +1670,14 @@
       "isVip": false,
       "subtitle": "Minecraft mod skins",
       "title": "MINECRAFT"
+    },
+    {
+      "banner": "https://i.pinimg.com/736x/60/ec/07/60ec07911d0a0d662254d903aa6960f8.jpg",
+      "icon": "🎁",
+      "id": "item_out_game",
+      "isVip": false,
+      "subtitle": "ĐỒ CHẾ ",
+      "title": "ĐỒ CHẾ NGOÀI GAME"
     }
   ]
 }
