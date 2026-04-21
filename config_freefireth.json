@@ -1617,6 +1617,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1TGLHwS_sTvgmEG71tydXWAo7QIsc--rZ",
+            "group": "ALOK",
+            "id": "ff_item_out_game_002",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260421d4c0348c2f36e84888c6462865d3b976.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "002_O_CHE_ALOK_2",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
