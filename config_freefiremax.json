@@ -1472,7 +1472,23 @@
     },
     "mod_map": {
       "items": {
-        "mod_map": []
+        "mod_map": [
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JAB4teUItIi8aF8NMA",
+            "group": "MAP XI MĂNG ",
+            "id": "001",
+            "img": "",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MOD MAP XI MĂNG ",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          }
+        ]
       },
       "tabs": [
         {
