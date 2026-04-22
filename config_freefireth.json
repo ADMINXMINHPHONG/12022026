@@ -1544,6 +1544,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d103-n4TaYEHis-fReFr6GAxVkT4iyTPNe",
+            "group": "K",
+            "id": "ff_mod_map_003",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260422d51335d885fb4637d8f175798b14e09f.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "003_GOI_ELIZABETH",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
@@ -1604,7 +1619,7 @@
       "items": {
         "item_out_game": [
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=15iToFnSwPmSc2gRodjbBfWHgHHBVlBH9",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d15iToFnSwPmSc2gRodjbBfWHgHHBVlBH9",
             "group": "Alok",
             "id": "đồ chế alok 001",
             "img": "https://sf-static.upanhlaylink.com/img/image_20260421e468974637b322fae7dac26369ee63c4.jpg",
@@ -1619,7 +1634,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1TGLHwS_sTvgmEG71tydXWAo7QIsc--rZ",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1TGLHwS_sTvgmEG71tydXWAo7QIsc--rZ",
             "group": "ALOK",
             "id": "ff_item_out_game_002",
             "img": "https://sf-static.upanhlaylink.com/img/image_20260421d4c0348c2f36e84888c6462865d3b976.jpg",
@@ -1634,7 +1649,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=15Ynm4DdxRGU7jLk7XkbyHn04hK489OKy",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d15Ynm4DdxRGU7jLk7XkbyHn04hK489OKy",
             "group": "ALOK",
             "id": "ff_item_out_game_003",
             "img": "https://sf-static.upanhlaylink.com/img/image_202604219c72d8eba71cffae1e2d2ab5d1646c15.jpg",
@@ -1649,7 +1664,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1GH6ROmdJvK4PK7OgnoUDjT-RdN5lHTRQ",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1GH6ROmdJvK4PK7OgnoUDjT-RdN5lHTRQ",
             "group": "ALOK",
             "id": "ff_item_out_game_004",
             "img": "https://sf-static.upanhlaylink.com/img/image_202604214549f23432aac129a00c513008bcbe9a.jpg",
@@ -1664,7 +1679,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1OSheyQBuhrloIHRmuFHwvei373BJI0Ya",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1OSheyQBuhrloIHRmuFHwvei373BJI0Ya",
             "group": "ALOK",
             "id": "ff_item_out_game_005",
             "img": "https://sf-static.upanhlaylink.com/img/image_20260421819ee68bdab7e50e127bfe25f1e8cba5.jpg",
@@ -1679,7 +1694,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1ugexDSYTKp9b5MwbFciDrRxCzHKJrtyu",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1ugexDSYTKp9b5MwbFciDrRxCzHKJrtyu",
             "group": "ALOK",
             "id": "ff_item_out_game_006",
             "img": "https://sf-static.upanhlaylink.com/img/image_20260421d0a94f7f94bb82cdb4682573f75bb243.jpg",
@@ -1694,7 +1709,7 @@
             "videoUrl": ""
           },
           {
-            "downloadUrl": "https://drive.google.com/uc?export=download&id=1VwNq1d_-ITDDuAbd8RP9BouCIT6-9dZ7",
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1VwNq1d_-ITDDuAbd8RP9BouCIT6-9dZ7",
             "group": "ALOK",
             "id": "ff_item_out_game_007",
             "img": "https://sf-static.upanhlaylink.com/img/image_2026042126a926dabf53594422ae477866080187.jpg",
