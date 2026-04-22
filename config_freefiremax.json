@@ -1631,9 +1631,187 @@
       ],
       "template": "khung-ngang",
       "useFilter": true
+    },
+    "item_out_game": {
+      "items": {
+        "item_out_game": []
+      },
+      "tabs": [
+        {
+          "id": "item_out_game",
+          "name": "ITEM OUT GAME"
+        }
+      ],
+      "template": "khung-ngang",
+      "useFilter": true
+    },
+    "map_fix_lag_ximang": {
+      "items": {
+        "map_fix_lag_ximang": [
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JAB4teUItIi8aF8NMA",
+            "group": "MAP",
+            "id": "001",
+            "img": "https://i.ibb.co/Mwr67rs/O-B-NH-MINH-1.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG ",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1",
+            "group": "MAP",
+            "id": "ffmax_mod_map_002",
+            "img": "https://i.ibb.co/BKCmDF75/O-B-NH-MINH-2.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG ",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d14kjk5utaZoB5Z0OEkigpIgrLNDce2v1Y",
+            "group": "MAP",
+            "id": "ffmax_mod_map_003",
+            "img": "https://i.ibb.co/HTxKNHXc/O-B-NH-MINH-3.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1RELXTs90-zDAJiPhrKxqpruJ9mwuRomi",
+            "group": "MAP",
+            "id": "ffmax_mod_map_004",
+            "img": "https://i.ibb.co/twpXx707/O-B-NH-MINH-4.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1oAwJu7SrQXlMkWAqNuA9tR4Ae1zea6m6",
+            "group": "MAP",
+            "id": "ffmax_mod_map_005",
+            "img": "https://i.ibb.co/HfLz7xvx/O-B-NH-MINH-10.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1c0NlUewQGr-2rWDxZVlNTERLu4x55_NL",
+            "group": "MAP",
+            "id": "ffmax_mod_map_006",
+            "img": "https://i.ibb.co/JFWNGrBN/O-B-NH-MINH-6.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d16_z7VN2QP0wvsnbE0hZ4WwpB-mBbnvkB",
+            "group": "MAP",
+            "id": "ffmax_mod_map_007",
+            "img": "https://i.ibb.co/d0bVb8HM/O-B-NH-MINH-7.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1",
+            "group": "MAP",
+            "id": "ffmax_mod_map_008",
+            "img": "https://i.ibb.co/rTGbyBR/O-B-NH-MINH-9.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17sFiQwhFV5lPQKEH6isK4hfIyMRkaTKS",
+            "group": "MAP",
+            "id": "ffmax_mod_map_009",
+            "img": "https://i.ibb.co/XxpjmPj8/O-B-NH-MINH-8.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "MAP XI MĂNG",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          }
+        ]
+      },
+      "tabs": [
+        {
+          "id": "map_fix_lag_ximang",
+          "name": "MAP FIX LAG - XI MĂNG"
+        }
+      ],
+      "template": "khung-ngang",
+      "useFilter": true
     }
   },
   "homeMenu": [
+    {
+      "banner": "https://i.pinimg.com/736x/60/ec/07/60ec07911d0a0d662254d903aa6960f8.jpg",
+      "icon": "🎁",
+      "id": "item_out_game",
+      "isVip": false,
+      "subtitle": "Đồ chế ngoài game",
+      "title": "ITEM OUT GAME"
+    },
+    {
+      "banner": "https://i.pinimg.com/736x/60/ec/07/60ec07911d0a0d662254d903aa6960f8.jpg",
+      "icon": "🎁",
+      "id": "map_fix_lag_ximang",
+      "isVip": false,
+      "subtitle": "Fix lag game",
+      "title": "MAP FIX LAG - XI MĂNG"
+    },
     {
       "banner": "https://i.pinimg.com/736x/5c/72/4d/5c724d8b8f21394f1c0096b0c8bf35a4.jpg",
       "icon": "🔫",
