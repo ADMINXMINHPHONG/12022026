@@ -1467,12 +1467,44 @@
           "name": "MOD ĐỒ LẺ"
         }
       ],
-      "template": "khung-nhanvat",
+      "tabs": [
+        {
+          "id": "mod_map",
+          "name": "MOD MAP"
+        }
+      ],
+      "template": "khung-ngang",
       "useFilter": true
     },
-    "mod_map": {
+    "minecraft": {
       "items": {
-        "mod_map": [
+        "minecraft": []
+      },
+      "tabs": [
+        {
+          "id": "minecraft",
+          "name": "MINECRAFT"
+        }
+      ],
+      "template": "khung-ngang",
+      "useFilter": true
+    },
+    "item_out_game": {
+      "items": {
+        "item_out_game": []
+      },
+      "tabs": [
+        {
+          "id": "item_out_game",
+          "name": "ITEM OUT GAME"
+        }
+      ],
+      "template": "khung-ngang",
+      "useFilter": true
+    },
+    "map_fix_lag_ximang": {
+      "items": {
+        "map_fix_lag_ximang": [
           {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JAB4teUItIi8aF8NMAqS-Ma5pyWbTk8v",
             "group": "MAP",
@@ -1602,181 +1634,6 @@
             "img2": "",
             "mapping_key": "",
             "name": "9",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          }
-        ]
-      },
-      "tabs": [
-        {
-          "id": "mod_map",
-          "name": "MOD MAP"
-        }
-      ],
-      "template": "khung-ngang",
-      "useFilter": true
-    },
-    "minecraft": {
-      "items": {
-        "minecraft": []
-      },
-      "tabs": [
-        {
-          "id": "minecraft",
-          "name": "MINECRAFT"
-        }
-      ],
-      "template": "khung-ngang",
-      "useFilter": true
-    },
-    "item_out_game": {
-      "items": {
-        "item_out_game": []
-      },
-      "tabs": [
-        {
-          "id": "item_out_game",
-          "name": "ITEM OUT GAME"
-        }
-      ],
-      "template": "khung-ngang",
-      "useFilter": true
-    },
-    "map_fix_lag_ximang": {
-      "items": {
-        "map_fix_lag_ximang": [
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JAB4teUItIi8aF8NMA",
-            "group": "MAP",
-            "id": "001",
-            "img": "https://i.ibb.co/Mwr67rs/O-B-NH-MINH-1.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F1",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1",
-            "group": "MAP",
-            "id": "ffmax_mod_map_002",
-            "img": "https://i.ibb.co/BKCmDF75/O-B-NH-MINH-2.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F2",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d14kjk5utaZoB5Z0OEkigpIgrLNDce2v1Y",
-            "group": "MAP",
-            "id": "ffmax_mod_map_003",
-            "img": "https://i.ibb.co/HTxKNHXc/O-B-NH-MINH-3.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F3",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1RELXTs90-zDAJiPhrKxqpruJ9mwuRomi",
-            "group": "MAP",
-            "id": "ffmax_mod_map_004",
-            "img": "https://i.ibb.co/6JfWFTHj/O-B-NH-MINH-14.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F4",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1oAwJu7SrQXlMkWAqNuA9tR4Ae1zea6m6",
-            "group": "MAP",
-            "id": "ffmax_mod_map_005",
-            "img": "https://i.ibb.co/HfLz7xvx/O-B-NH-MINH-10.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F5",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1c0NlUewQGr-2rWDxZVlNTERLu4x55_NL",
-            "group": "MAP",
-            "id": "ffmax_mod_map_006",
-            "img": "https://i.ibb.co/JFWNGrBN/O-B-NH-MINH-6.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F6",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d16_z7VN2QP0wvsnbE0hZ4WwpB-mBbnvkB",
-            "group": "MAP",
-            "id": "ffmax_mod_map_007",
-            "img": "https://i.ibb.co/d0bVb8HM/O-B-NH-MINH-7.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F7",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1",
-            "group": "MAP",
-            "id": "ffmax_mod_map_008",
-            "img": "https://i.ibb.co/rTGbyBR/O-B-NH-MINH-9.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F8",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d17sFiQwhFV5lPQKEH6isK4hfIyMRkaTKS",
-            "group": "MAP",
-            "id": "ffmax_mod_map_009",
-            "img": "https://i.ibb.co/XxpjmPj8/O-B-NH-MINH-8.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "F9",
             "name2": "",
             "note": "",
             "variants": 0,
