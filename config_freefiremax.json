@@ -1474,21 +1474,6 @@
       "items": {
         "mod_map": [
           {
-            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1JAB4teUItIi8aF8NMAqS-Ma5pyWbTk8v",
-            "group": "MAP",
-            "id": "001",
-            "img": "https://i.ibb.co/Mwr67rs/O-B-NH-MINH-1.png",
-            "img1": "",
-            "img2": "",
-            "mapping_key": "",
-            "name": "1 ",
-            "name2": "",
-            "note": "",
-            "variants": 0,
-            "videoEnabled": false,
-            "videoUrl": ""
-          },
-          {
             "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1s286qcD5ABDFhLO5CK6nn18eTnwpU3cv",
             "group": "MAP",
             "id": "ffmax_mod_map_002",
