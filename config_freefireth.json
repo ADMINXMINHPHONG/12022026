@@ -1785,6 +1785,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/71nrgs.zip",
+            "group": "Map",
+            "id": "007",
+            "img": "https://i.ibb.co/d0bVb8HM/O-B-NH-MINH-7.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F7",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
