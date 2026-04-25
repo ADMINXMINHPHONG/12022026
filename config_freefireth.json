@@ -1800,6 +1800,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/rvw415.zip",
+            "group": "Map",
+            "id": "001",
+            "img": "https://i.ibb.co/Mwr67rs/O-B-NH-MINH-1.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F1",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
