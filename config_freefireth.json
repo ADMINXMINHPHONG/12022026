@@ -1755,6 +1755,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/6rpis3.zip",
+            "group": "Map",
+            "id": "005",
+            "img": "https://i.ibb.co/HfLz7xvx/O-B-NH-MINH-10.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F5",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
