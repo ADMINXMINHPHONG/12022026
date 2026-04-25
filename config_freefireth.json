@@ -1815,6 +1815,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/v9b9qx.zip",
+            "group": "Map",
+            "id": "008",
+            "img": "https://i.ibb.co/rTGbyBR/O-B-NH-MINH-9.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F8",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
