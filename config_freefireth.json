@@ -1770,6 +1770,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/924n9e.zip",
+            "group": "Map",
+            "id": "006",
+            "img": "https://i.ibb.co/JFWNGrBN/O-B-NH-MINH-6.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F6",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
