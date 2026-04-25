@@ -1725,7 +1725,23 @@
     },
     "map_fix_lag_ximang": {
       "items": {
-        "map_fix_lag_ximang": []
+        "map_fix_lag_ximang": [
+          {
+            "downloadUrl": "https://files.catbox.moe/t06r1h.zip",
+            "group": "Map",
+            "id": "002",
+            "img": "https://i.ibb.co/BKCmDF75/O-B-NH-MINH-2.png",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "F2",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          }
+        ]
       },
       "tabs": [
         {
