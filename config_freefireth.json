@@ -1548,6 +1548,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://drive.google.com/uc?export\u003ddownload\u0026id\u003d1zG4gH9F2_NffxqVITUa7bmF6z1U0C4NC",
+            "group": "IGNIS_",
+            "id": "ff_mod_map_005",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260426ee64bf886ec80e1a60da04c479392d22.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "005_004_GOI_ANIME",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
