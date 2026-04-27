@@ -1288,6 +1288,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/potzj3.ZIP",
+            "group": "IGNIS",
+            "id": "ff_char_1773148693",
+            "img": "https://sf-static.upanhlaylink.com/img/image_2026042776d338aabd249953ef838d30dcbb240b.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_015",
+            "name": "1773148693_IGNIS__V004",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "nu": [
