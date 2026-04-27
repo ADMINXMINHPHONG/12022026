@@ -1741,6 +1741,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/tza081.ZIP",
+            "group": "ALOK",
+            "id": "ff_item_out_game_009",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260427b395c9f900425047ca30e95408151b55.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "O_CHE_ALOK",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ]
       },
