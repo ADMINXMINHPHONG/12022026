@@ -1303,6 +1303,21 @@
             "variants": 0,
             "videoEnabled": false,
             "videoUrl": ""
+          },
+          {
+            "downloadUrl": "https://files.catbox.moe/idet71.ZIP",
+            "group": "ALOK",
+            "id": "ff_char_886",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260430f8274a44909556e6164b5a49b75b8b4a.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "_014",
+            "name": "886_ALOKTVC8",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
           }
         ],
         "nu": [
