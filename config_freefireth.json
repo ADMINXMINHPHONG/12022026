@@ -1694,7 +1694,7 @@
           "name": "MOD ĐỒ LẺ"
         }
       ],
-      "template": "khung-nhanvat",
+      "template": "khung-ngang",
       "useFilter": true
     },
     "mod_map": {
