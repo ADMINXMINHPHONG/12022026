@@ -1653,15 +1653,31 @@
     },
     "mod_do_le": {
       "items": {
-        "mod_do_le": []
+        "mod_do_le": [
+          {
+            "downloadUrl": "https://drive.google.com/uc?export=download&id=1SodrQZs-CUkxIuM0qsyL3dfR8O61to9U",
+            "group": "HIEUUNG_HOIMAU",
+            "id": "HOIMAU",
+            "img": "https://sf-static.upanhlaylink.com/img/image_20260327630ed6fb8ae30ffc42465b951cc5cc3f.jpg",
+            "img1": "",
+            "img2": "",
+            "mapping_key": "",
+            "name": "HIỆU ỨNG HỒI MÁU",
+            "name2": "",
+            "note": "",
+            "variants": 0,
+            "videoEnabled": false,
+            "videoUrl": ""
+          }
+        ]
       },
       "tabs": [
         {
-          "id": "mod_do_le",
+          "id": "khung-ngang",
           "name": "MOD ĐỒ LẺ"
         }
       ],
-      "template": "khung-ngang",
+      "template": "khung-nhanvat",
       "useFilter": true
     },
     "mod_map": {
